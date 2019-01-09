@@ -1,0 +1,12 @@
+[submodule "supertest-2"]
+	path = supertest-2
+	url = ../supertest-2.git
+[submodule "test1"]
+	path = test1
+	url = ../supertest-2.git
+[submodule "long-string-test3"]
+	path = long-string-test3
+	url = ../supertest-2.git
+[submodule "lt4"]
+	path = lt4
+	url = ../supertest-2.git
